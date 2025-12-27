@@ -8,7 +8,7 @@ prediction interface.
 
 ##  APP Screenshot
 ![EPL Match Predictor App](assets/app_screenshot.png)
----
+
 
 ## 🚀 Features
 - Data analysis on 9,000+ EPL matches (2000–2025)
