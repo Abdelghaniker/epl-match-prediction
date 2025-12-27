@@ -3,11 +3,11 @@
 An end-to-end machine learning project that predicts **Premier League match outcomes**
 (**Home / Draw / Away**) using historical match data.
 
-![EPL Match Predictor App](assets/app_screenshot.png)
-
 The project focuses on building a **realistic, leakage-free ML pipeline** and a usable
 prediction interface.
 
+##  APP Screenshot
+![EPL Match Predictor App](assets/app_screenshot.png)
 ---
 
 ## 🚀 Features
