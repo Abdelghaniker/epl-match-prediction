@@ -20,7 +20,7 @@ prediction interface.
 - Model persistence (saved artifacts)
 - Interactive **Streamlit web app** for predictions
 
----
+----
 
 ## 🧠 Machine Learning Approach
 - Target: Match result (Away / Draw / Home)
