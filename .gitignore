@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ML artifacts (generated)
+artifacts/
+
+# OS
+.DS_Store
+Thumbs.db
